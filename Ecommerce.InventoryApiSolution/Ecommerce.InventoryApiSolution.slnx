@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../Ecommerce.SharedLibrarySolution/Ecommerce.SharedLibrary/Ecommerce.SharedLibrary.csproj" />
+  <Project Path="InventoryApi.Application/InventoryApi.Application.csproj" />
+  <Project Path="InventoryApi.Domain/InventoryApi.Domain.csproj" />
+  <Project Path="InventoryApi.Infrastructure/InventoryApi.Infrastructure.csproj" />
+  <Project Path="InventoryApi.Presentation/InventoryApi.Presentation.csproj" />
+</Solution>
