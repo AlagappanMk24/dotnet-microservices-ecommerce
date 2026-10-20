@@ -1,0 +1,3 @@
+Entity configuration is currently centralized in OrderDbContext.OnModelCreating. 
+
+Move each entity configuration to its own IEntityTypeConfiguration<T> file if your repository convention requires separate EF configuration files.
